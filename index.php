@@ -8,7 +8,6 @@
     <body>
         <?php
         echo '¡¡El Limite Es El Cielo!!'
-        <br>
         echo 'Comienza un nuevo proyecto'
         ?>
     </body>
