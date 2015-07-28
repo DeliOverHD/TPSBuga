@@ -7,8 +7,7 @@
     </head>
     <body>
         <?php
-        echo '¡¡El Limite Es El Cielo!!'
-        echo 'Comienza un nuevo proyecto'
+        echo '¡¡El Limite Es El Cielo!!' . 'Comienzo de un nuevo proyecto'
         ?>
     </body>
 </html>
