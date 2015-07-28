@@ -6,8 +6,10 @@
         <title></title>
     </head>
     <body>
-        <?php
-        echo '¡¡El Limite Es El Cielo!!' . 'Comienzo de un nuevo proyecto'
+        <?php        
+        echo '¡¡El Limite Es El Cielo!!';
+        
+       
         ?>
     </body>
 </html>
