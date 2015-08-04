@@ -24,7 +24,7 @@
                     </td>
                     <td>
                         <input type="radio" name="sexo" id="hombre" value="Hombre">
-                        <label for="hombre" color="green"> Hombre</label>
+                        <label for="hombre"> Hombre</label>
                         <input type="radio" name="sexo" id="mujer" value="Mujer">
                         <label for="mujer"> Mujer</label>
                     </td>
@@ -44,9 +44,10 @@
                     </td>
                     <td>
                         <select name="vestuario" size="1"> 
-                            <option value="r">Camisa manga larga con pantalon de tela y zapatos de material</option> 
-                            <option value="g">Camiseta manga corta con pantalon de pana y zapatos deportivos</option> 
-                            <option value="b"></option> 
+                            <option value="a">Camisa manga larga o corta con pantalon de tela y zapatos de material</option> 
+                            <option value="b">Camiseta manga corta con pantalon de pana y zapatos deportivos</option> 
+                            <option value="c">Blusa con falda larga y tacones</option>
+                            <option value="d">Blusa escotada con falda corta y manoletinas</option>
                         </select> 
                     </td>
                 </tr>
