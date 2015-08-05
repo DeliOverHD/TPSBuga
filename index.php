@@ -43,12 +43,7 @@
                         <label for="inputVestuario">Vestuario : </label>
                     </td>
                     <td>
-                        <select name="vestuario" size="1"> 
-                            <option value="a">Camisa manga larga o corta con pantalon de tela y zapatos de material</option> 
-                            <option value="b">Camiseta manga corta con pantalon de pana y zapatos deportivos</option> 
-                            <option value="c">Blusa con falda larga y tacones</option>
-                            <option value="d">Blusa escotada con falda corta y manoletinas</option>
-                        </select> 
+                       
                     </td>
                 </tr>
                 <td>
